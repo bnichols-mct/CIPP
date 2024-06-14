@@ -1,4 +1,5 @@
 # Inactive Users
+This report provides a list of all users who are active (regardless of license or not) and the last activity/sign in time. 
 
 ### Feature Requests / Ideas
 
